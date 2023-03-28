@@ -1,1 +1,0 @@
-(Words in the flag are **separated by underscores and are in uppercase**, remember to wrap it in `ping{...}`)
