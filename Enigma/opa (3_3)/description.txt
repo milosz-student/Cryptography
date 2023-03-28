@@ -1,0 +1,7 @@
+We are worried for Mr. Kowalski's Wife. We have searched his father house and he was gone, but we eventually found the ciphered message on his desk. Can you unreveal the truth?
+
+(Words in the flag are separated by underscores and are in lowercase, remember to wrap it in {})
+
+```
+opa_crypto.png
+```

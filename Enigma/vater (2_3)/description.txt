@@ -1,0 +1,7 @@
+We have found the neighbour’s package with destroyed document inside. Can you recover the document?
+
+(Words in the flag are separated by underscores and are in lowercase, remember to wrap it in {})
+
+```
+vater_crypto.png
+```

@@ -1,0 +1,7 @@
+We have intercepted the neighbour’s list, but unfortunately, some text was corrupted during delivery. Can you recover the message?
+
+(Words in the flag are separated by underscores and are in lowercase, remember to wrap it in {})
+
+```
+kind_crypto.png
+```
